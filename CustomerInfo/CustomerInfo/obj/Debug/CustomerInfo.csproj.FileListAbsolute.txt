@@ -1,0 +1,10 @@
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\bin\Debug\CustomerInfo.exe.config
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\bin\Debug\CustomerInfo.exe
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\bin\Debug\CustomerInfo.pdb
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.csprojAssemblyReference.cache
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.CustomerInfor.resources
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.Properties.Resources.resources
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.csproj.GenerateResource.cache
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.csproj.CoreCompileInputs.cache
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.exe
+D:\assignmet\Assignment09\CustomerInfo\CustomerInfo\obj\Debug\CustomerInfo.pdb
